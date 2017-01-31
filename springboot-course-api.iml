@@ -85,5 +85,7 @@
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.22" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:4.3.6.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.derby:derby:10.12.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.4.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:1.4.4.RELEASE" level="project" />
   </component>
 </module>

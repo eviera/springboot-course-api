@@ -46,6 +46,13 @@
 			<artifactId>derby</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+
+		<dependency>
+            <!-- this is like the jmx-console at http://localhost:8080/health -->
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+
 	</dependencies>
 
 	<build>
